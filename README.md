@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
