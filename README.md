@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
