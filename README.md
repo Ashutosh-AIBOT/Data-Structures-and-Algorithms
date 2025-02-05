@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 ## Union Find
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -67,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0196-delete-duplicate-emails) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
