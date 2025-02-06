@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
