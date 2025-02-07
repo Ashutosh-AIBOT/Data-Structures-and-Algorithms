@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
