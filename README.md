@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Union Find
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -50,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -80,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
