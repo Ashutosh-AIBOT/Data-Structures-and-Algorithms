@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## String
 |  |
 | ------- |
