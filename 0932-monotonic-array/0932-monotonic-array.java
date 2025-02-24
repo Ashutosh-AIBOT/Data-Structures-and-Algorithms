@@ -20,12 +20,11 @@ class Solution {
             }
         }
 
-        // If the array is completely non-decreasing, return true
+        
         if (count == len - 1) {
             return true;
         }
 
-        // Otherwise, it's not monotonic
         return false;
     }
 }
