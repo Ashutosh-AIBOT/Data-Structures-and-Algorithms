@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 | [0932-monotonic-array](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0932-monotonic-array) |
+| [1580-shuffle-the-array](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1580-shuffle-the-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
