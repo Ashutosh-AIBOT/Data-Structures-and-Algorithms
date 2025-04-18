@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0051-n-queens](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
