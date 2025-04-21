@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
@@ -147,5 +149,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
