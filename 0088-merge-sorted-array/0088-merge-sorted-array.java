@@ -1,8 +1,8 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int i = m - 1;  // Pointer for nums1 (last non-zero element)
-        int j = n - 1;  // Pointer for nums2
-        int k = m + n - 1;  // Pointer for inserting elements in nums1
+        int i = m - 1;  
+        int j = n - 1;  
+        int k = m + n - 1;  
 
         // Merge in reverse order (from end to start)
         while (i >= 0 && j >= 0) {
