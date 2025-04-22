@@ -165,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
