@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+| [0390-elimination-game](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0390-elimination-game) |
 ## Recursion
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
+| [0390-elimination-game](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0390-elimination-game) |
 ## Bit Manipulation
 |  |
 | ------- |
