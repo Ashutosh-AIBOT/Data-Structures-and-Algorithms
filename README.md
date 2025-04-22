@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Union Find
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## String Matching
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Divide and Conquer
 |  |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0386-lexicographical-numbers) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
