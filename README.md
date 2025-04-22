@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0389-find-the-difference) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Union Find
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0389-find-the-difference) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## String Matching
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 ## Counting
