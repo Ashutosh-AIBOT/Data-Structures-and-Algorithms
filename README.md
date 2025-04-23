@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## String
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## String Matching
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
