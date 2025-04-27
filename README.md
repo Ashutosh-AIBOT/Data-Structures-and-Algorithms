@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
