@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
