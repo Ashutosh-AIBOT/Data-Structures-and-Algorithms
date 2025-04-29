@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 | [0932-monotonic-array](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0932-monotonic-array) |
+| [0979-di-string-match](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1580-shuffle-the-array](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1580-shuffle-the-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0979-di-string-match](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
 ## String
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
+| [0979-di-string-match](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## String Matching
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
+| [0979-di-string-match](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
 ## Counting Sort
 |  |
 | ------- |
