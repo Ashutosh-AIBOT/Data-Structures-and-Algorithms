@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0494-target-sum) |
 | [0561-array-partition](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 | [0932-monotonic-array](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0932-monotonic-array) |
 | [0979-di-string-match](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0052-n-queens-ii) |
+| [0494-target-sum](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0494-target-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Ashutosh-AIBOT/Data-Structures-and-Algorithms/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
